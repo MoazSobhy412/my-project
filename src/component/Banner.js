@@ -1,6 +1,6 @@
 import { Container, Row, Col } from "react-bootstrap";
 import { ArrowRightCircle } from "react-bootstrap-icons";
-import mycar from "../assets/mycar.png";
+import mycar from "../assets/img/mycar.jpeg";
 export const Banner = () => {
   return (
     <section className="banner" id="home">
